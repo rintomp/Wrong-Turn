@@ -48,4 +48,6 @@ install_dependency "curl" "sudo apt-get install -y curl"
 # Install grep (typically pre-installed on most Unix systems)
 install_dependency "grep" "sudo apt-get install -y grep"
 
+chmod +x wrongturn.sh
+
 echo "Installation complete. You can now run the tool using ./wrongturn.sh"
