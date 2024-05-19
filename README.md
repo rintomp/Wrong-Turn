@@ -8,13 +8,13 @@ git clone https://github.com/rintomp/Wrong-Turn.git
 Step 2
 cd Wrong-Turn
 
-Step 2
+Step 3
 chmod +x installer.sh
 
-Step 3
+Step 4
 ./installer.sh
 
-Step 4
+Step 5
 ./wrongturn.sh
 
 ![image](https://github.com/rintomp/Wrong-Turn/assets/89894914/41034a87-b001-4da0-ba49-0c3a8c24d394)
