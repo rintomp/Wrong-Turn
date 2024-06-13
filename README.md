@@ -12,7 +12,7 @@ Step 3
 chmod +x installer.sh
 
 Step 4
-./installer.sh
+sudo ./installer.sh
 
 Step 5
 ./wrongturn.sh
